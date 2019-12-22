@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(indigo, black);
+}
+header {
+    background-color: black;
+}
+main {
+    background-color: black;
+}
+input {
+    color : white;
+}
+
+.discussion {
+    padding-right: 20px;
+
+    padding-left: 20px;
+
+}
+.msg {
+    border-radius: 6px;
+}

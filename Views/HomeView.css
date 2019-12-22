@@ -1,0 +1,32 @@
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+    margin: 0;
+    background: no-repeat fixed;
+    background: black;
+    font: 1.2em "Fira Sans", serif;
+    color: white;
+}
+header {
+    background-color: black;
+}
+input {
+    color : white;
+}
+
+#submit {
+    color : black;
+}
+
+blockquote {
+    color: white;
+}
+
+.discussion {
+    background: linear-gradient(indigo, black);
+}
+.welcome {
+    background: linear-gradient(#30cfd0, #330867);
+}
